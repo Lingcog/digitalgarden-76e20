@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/den-digitale-have/","tags":["gardenEntry"],"created":"2025-04-06T00:21:35.747+02:00","updated":"2025-04-06T18:28:01.617+02:00"}
+{"dg-publish":true,"permalink":"/den-digitale-have/","tags":["gardenEntry"],"created":"2025-04-06T00:21:35.747+02:00","updated":"2025-04-06T18:52:25.617+02:00"}
 ---
 
 
@@ -16,6 +16,9 @@ Et andet emne som optager mig, er [[Pædagogik\|pædagogik]].
 
 **Fonetik og fonologi**
 I forbindelse med mit bidrag til bogen *[dansk udtaleordbog](https://www.modersmaalselskabet.dk/butik/andre-udgivelser/aarbog/uob-kompakt/)* har jeg samlet en del viden om forskning i [[Udtaleundervisning\|udtaleundervisning]]. Hvis du har særlig interesse i fonetik og fonologi, kan du læse tilbundsgående artikler på [schwa.dk](https://schwa.dk), som bestyres af Ruben Schachtenhaufen. Han er hovedforfatteren til ovennævnte udtaleordbog.
+
+<div class="badge-base LI-profile-badge" data-locale="da_DK" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mikael-fabrin-2805b28b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://dk.linkedin.com/in/mikael-fabrin-2805b28b?trk=profile-badge">Mikael Fabrin</a></div>
+              
 
 
 
