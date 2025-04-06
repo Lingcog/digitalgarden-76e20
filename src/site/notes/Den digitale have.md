@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/den-digitale-have/","tags":["gardenEntry"],"created":"2025-04-06T00:21:35.747+02:00","updated":"2025-04-06T17:32:59.072+02:00"}
+{"dg-publish":true,"permalink":"/den-digitale-have/","tags":["gardenEntry"],"created":"2025-04-06T00:21:35.747+02:00","updated":"2025-04-06T18:02:55.884+02:00"}
 ---
 
 
-https://imgur.com/a/ypEwSYA
+[Imgur](https://i.imgur.com/nYKJPo4.png)
 
 **Velkommen til min digitale have.** 
 Her kan du gå på opdagelse i mine forskellige interesseområder.
