@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/den-digitale-have/","tags":["gardenEntry"],"created":"2025-04-06T00:21:35.747+02:00","updated":"2025-04-06T18:53:20.485+02:00"}
+{"dg-publish":true,"permalink":"/den-digitale-have/","tags":["gardenEntry"],"created":"2025-04-06T00:21:35.747+02:00","updated":"2025-04-09T11:36:45.627+02:00"}
 ---
 
 
-![Imgur](https://i.imgur.com/nYKJPo4.png)
+
+![Imgur](https://i.imgur.com/VZfRmQi.png)
 
 **Velkommen til min digitale have.** 
 Her kan du gå på opdagelse i mine forskellige interesseområder. Mine tanker og ideer er som frø, altså lidt ubearbejdede, men med potentiale til at udvikle sig til mere. Du kan følge med i hvilke tanker jeg gør mig.
