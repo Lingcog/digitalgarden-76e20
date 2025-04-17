@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/brookfield-2015/","created":"2024-04-07T13:38:31.000+02:00","updated":"2025-04-17T14:52:34.628+02:00"}
+{"dg-publish":true,"permalink":"/brookfield-2015/","created":"2024-04-07T13:38:31.000+02:00","updated":"2025-04-17T14:54:47.134+02:00"}
 ---
 
-[[Lærergerning\|Lærergerning]][[Undervisningsmetoder - hvilke er effektive eller ineffektive?\|Undervisningsmetoder - hvilke er effektive eller ineffektive?]][[Agarwal og Bain (2019)\|Agarwal og Bain (2019)]]
+[[Lærergerning\|Lærergerning]][[Undervisningsmetoder - hvilke er effektive eller ineffektive?\|Undervisningsmetoder - hvilke er effektive eller ineffektive?]]
+[[Agarwal og Bain (2019)\|Agarwal og Bain (2019)]]
 [[Pædagogik\|Pædagogik]]
 
 Stephen brookfield, (2015), The skilfull teacher, 3. udgave.
