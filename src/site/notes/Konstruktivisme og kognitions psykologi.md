@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/konstruktivisme-og-kognitions-psykologi/","created":"2025-04-17T15:13:22.000+02:00","updated":"2025-04-17T15:35:04.760+02:00"}
+{"dg-publish":true,"permalink":"/konstruktivisme-og-kognitions-psykologi/","created":"2025-04-17T15:13:22.000+02:00","updated":"2025-04-17T15:37:51.753+02:00"}
 ---
 
 [[Pædagogik\|Pædagogik]]
@@ -36,7 +36,7 @@ Konstruktivisme som læringssyn hviler på en antagelse om at læring sker ved a
 - At misforståelser og forforståelser er nøgler til udvikling, ikke fejl, der skal elimineres.
 
 
-Her en liste over centrale værker jeg har læst, og som jeg lavet notater til.
+Her en liste over centrale værker jeg er i gang med at læse, og som jeg lavet notater til.
 
 **Litteratur** 
 - [[Agarwal og Bain (2019)\|Agarwal og Bain (2019)]]
