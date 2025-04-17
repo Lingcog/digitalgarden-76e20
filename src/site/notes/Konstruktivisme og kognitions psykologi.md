@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/konstruktivisme-og-kognitions-psykologi/","created":"2025-04-17T15:13:22.000+02:00","updated":"2025-04-17T15:30:23.708+02:00"}
+{"dg-publish":true,"permalink":"/konstruktivisme-og-kognitions-psykologi/","created":"2025-04-17T15:13:22.000+02:00","updated":"2025-04-17T15:32:46.094+02:00"}
 ---
 
 [[Pædagogik\|Pædagogik]]
@@ -8,7 +8,7 @@ Konstruktivisme som læringssyn hviler på en antagelse om at læring sker ved a
 
 **Historisk og teoretisk baggrund:**
 
-1. Jean Piaget (1896–1980)
+1. *Jean Piaget* (1896–1980)
 
 - Udviklede kognitiv konstruktivisme.
 
@@ -16,7 +16,7 @@ Konstruktivisme som læringssyn hviler på en antagelse om at læring sker ved a
 
 - Fokus: Den indre, kognitive udvikling.
 
-2. Lev Vygotsky (1896–1934)
+2. *Lev Vygotsky* (1896–1934)
 
   - Udviklede sociokulturel konstruktivisme.
 
@@ -34,6 +34,7 @@ Konstruktivisme som læringssyn hviler på en antagelse om at læring sker ved a
 - At underviseren fungerer som facilitator, ikke som “vidensmaskine”.
 
 - At misforståelser og forforståelser er nøgler til udvikling, ikke fejl, der skal elimineres.
+
 
 Her en liste over centrale værker jeg har læst, og som jeg lavet notater til.
 
