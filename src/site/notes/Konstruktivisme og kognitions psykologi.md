@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/konstruktivisme-og-kognitions-psykologi/","created":"2025-04-17T15:13:22.000+02:00","updated":"2025-04-17T15:37:51.753+02:00"}
+{"dg-publish":true,"permalink":"/konstruktivisme-og-kognitions-psykologi/","created":"2025-04-17T15:13:22.000+02:00","updated":"2025-04-17T15:38:14.020+02:00"}
 ---
 
 [[Pædagogik\|Pædagogik]]
@@ -45,7 +45,7 @@ Her en liste over centrale værker jeg er i gang med at læse, og som jeg lavet 
 - [[Brookfield (2015)\|Brookfield (2015)]]
 - [[Ritchhart, Church & Morrison, 2011\|Ritchhart, Church & Morrison, 2011]]
 
-Du kan læse en opsummering af hovedkonklusionerne her:
+Du kan læse en opsummering af hovedideerne her:
 
 1. *Retrieval Practice og Effortful Retrieval*
 
