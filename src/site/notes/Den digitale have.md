@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/den-digitale-have/","tags":["gardenEntry"],"created":"2025-04-06T00:21:35.747+02:00","updated":"2025-04-09T11:37:55.677+02:00"}
+{"dg-publish":true,"permalink":"/den-digitale-have/","tags":["gardenEntry"],"created":"2025-04-06T00:21:35.747+02:00","updated":"2025-04-17T15:05:12.510+02:00"}
 ---
 
 
@@ -7,7 +7,7 @@
 ![Imgur](https://i.imgur.com/VZfRmQi.png)
 
 **Velkommen til min digitale have**
-Her kan du gå på opdagelse i mine forskellige interesseområder. Mine tanker og ideer er som frø, altså lidt ubearbejdede, men med potentiale til at udvikle sig til mere. Du kan følge med i hvilke tanker jeg gør mig.
+Her kan du gå på opdagelse i mine forskellige interesseområder. Mine tanker og ideer er som frø, altså lidt ubearbejdede, men med potentiale til at udvikle sig til mere. Som det fremgår af websidens navn lingcog.com er min store passion lingvistik og kognition. 
 
 **Feedback**
 For tiden beskæftiger jeg mig med [[Feedback\|feedback]], som en del af mit observationsstudie i faget Andetsprogspædagogik. Jeg er interesseret i at vide om man kan vide om en bestemt feedback er mere effektiv end en anden. 
