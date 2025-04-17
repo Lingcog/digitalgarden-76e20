@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/konstruktivisme-og-kognitions-psykologi/","created":"2025-04-17T15:13:22.000+02:00","updated":"2025-04-17T15:32:46.094+02:00"}
+{"dg-publish":true,"permalink":"/konstruktivisme-og-kognitions-psykologi/","created":"2025-04-17T15:13:22.000+02:00","updated":"2025-04-17T15:35:04.760+02:00"}
 ---
 
 [[Pædagogik\|Pædagogik]]
@@ -43,7 +43,7 @@ Her en liste over centrale værker jeg har læst, og som jeg lavet notater til.
 - [[Lang (2019)\|Lang (2019)]]
 - [[Brown (2014)\|Brown (2014)]]
 - [[Brookfield (2015)\|Brookfield (2015)]]
-- [[Making-thinking-visible (2011)\|Making-thinking-visible (2011)]]
+- [[Ritchhart, Church & Morrison, 2011\|Ritchhart, Church & Morrison, 2011]]
 
 Du kan læse en opsummering af hovedkonklusionerne her:
 
