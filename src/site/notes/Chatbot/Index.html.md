@@ -1,12 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/chatbot/index-html/","created":"2025-04-27T11:35:11.000+02:00","updated":"2025-04-28T08:53:45.162+02:00"}
+{"dg-publish":true,"permalink":"/chatbot/index-html/","created":"2025-04-27T11:35:11.000+02:00","updated":"2025-04-28T09:05:02.376+02:00"}
 ---
 
+<link rel="stylesheet" href="Style.css">
+<script src="Script.js"></script>
 
-
-[[Chatbot/Script.js\|Script.js]]
-
-[[Chatbot/Style.css\|Style.css]]
 
 <!DOCTYPE html>
 <html lang="da">
