@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/den-digitale-have/","tags":["gardenEntry"],"created":"2025-04-06T00:21:35.747+02:00","updated":"2025-04-17T15:30:48.983+02:00"}
+{"dg-publish":true,"permalink":"/den-digitale-have/","tags":["gardenEntry"],"created":"2025-04-06T00:21:35.747+02:00","updated":"2025-04-28T09:25:19.910+02:00"}
 ---
 
 
@@ -23,5 +23,5 @@ I forbindelse med mit bidrag til bogen *[dansk udtaleordbog](https://www.modersm
               
 
 
-
+<a href="/Chatbot.html">Prøv min chatbot</a>
 
