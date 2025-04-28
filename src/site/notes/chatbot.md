@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/chatbot/","created":"2025-04-28T08:45:41.000+02:00","updated":"2025-04-28T09:21:40.390+02:00"}
+{"dg-publish":true,"permalink":"/chatbot/","created":"2025-04-28T08:45:41.000+02:00","updated":"2025-04-28T09:28:31.000+02:00"}
 ---
+
+[[Den digitale have\|Den digitale have]]
 
 <!DOCTYPE html>
 <html lang="da">
