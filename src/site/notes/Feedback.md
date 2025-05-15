@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/feedback/","created":"2025-04-06T13:41:57.976+02:00","updated":"2025-05-15T10:38:43.600+02:00"}
+{"dg-publish":true,"permalink":"/feedback/","created":"2025-04-06T13:41:57.000+02:00","updated":"2025-05-15T10:38:43.000+02:00"}
 ---
 
 **Former for feedback**
