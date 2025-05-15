@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/chatbot/","created":"2025-05-06T10:29:30.833+02:00","updated":"2025-05-06T10:32:05.097+02:00"}
+{"dg-publish":true,"permalink":"/chatbot/","created":"2025-05-06T10:29:30.833+02:00","updated":"2025-05-15T11:09:37.710+02:00"}
 ---
 
 
