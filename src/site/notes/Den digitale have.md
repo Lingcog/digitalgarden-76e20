@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/den-digitale-have/","tags":["gardenEntry"],"created":"2025-04-06T00:21:35.000+02:00","updated":"2026-02-01T20:43:24.236+01:00"}
+{"dg-publish":true,"permalink":"/den-digitale-have/","tags":["gardenEntry"],"created":"2025-04-06T00:21:35.000+02:00","updated":"2026-02-01T20:53:20.055+01:00"}
 ---
 
 
@@ -10,7 +10,7 @@
 Her kan du gå på opdagelse i mine forskellige interesseområder. Mine tanker og ideer er som frø, altså lidt ubearbejdede, men med potentiale til at udvikle sig til mere. Som det fremgår af websidens navn lingcog.com er min store passion lingvistik og kognition. 
 
 **Feedback**
-I det sidste årstid har jeg beskæftiget mig med [[Feedback\|feedback]], først som en del af et [[Observationsstudie\|Observationsstudie]] i faget Andetsprogspædagogik. Dernæst dannede mine observationer grundlag for at undersøge fænomenerne feedback og AI-integration i et [speciale]().  
+I det sidste årstid har jeg beskæftiget mig med [[Feedback\|feedback]], først som en del af et [[Observationsstudie\|observationsstudie]] i faget Andetsprogspædagogik. Dernæst dannede mine observationer grundlag for at undersøge fænomenerne feedback og AI-integration i et [speciale]().  
 
 **Pædagogik**
 Et andet emne som optager mig, er [[Pædagogik\|pædagogik]]. Det er især underkategorierne [[Konstruktivisme og kognitions psykologi\|konstruktivisme og kognitions psykologi]] jeg beskæftiger mig mest med.
