@@ -4,7 +4,7 @@
 
 I forbindelse med min eksamen i Andetsprogspædagogik skulle jeg aflevere en portofolio, og den anden opgave var et observationsstudie i feedback på et sprogkursus. 
 
-![[Portfolio 2.pdf]]
+<iframe src="/img/user/Portfolio%202.pdf" width="100%" height="900px" title="Portfolio 2.pdf" style="border:1px solid #ccc;"></iframe>
 
 I løbet af en periode på en måned observerede jeg en undervisers brug af feedback. Jeg tringulerede mine observationer så de også omfattede underviserens og kursisternes perspektiver. Blandt andet interviewede jeg underviseren og foretog en spørgeundersøgelse blandt kursisterne.
 
