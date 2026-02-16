@@ -1,14 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/dansk-udtalecoach-hvad-er-det/","created":"2026-02-16T12:40:31.000+01:00","updated":"2026-02-16T23:12:51.578+01:00"}
+{"dg-publish":true,"permalink":"/dansk-udtalecoach-hvad-er-det/","created":"2026-02-16T12:40:31.000+01:00","updated":"2026-02-16T23:28:22.672+01:00"}
 ---
 
+
+![](https://i.imgur.com/VJSbT4p.jpeg)
 
 Tak for din interesse i min nye app. Her kan du læse mere detaljeret om hvad du kan bruge den til og om mine tanker bag den
 
 Du har mulighed for at give input til brugen af appen her: https://padlet.com/mibf/input-til-brug-af-ny-udtaleapp-vwcuf704v8xpy3as
 
 ### **Min grundlæggende Vision**
-Denne app skal være en hjælp for de kursister som har sværest ved dansk udtale, fordi de ikke taler et germansk sprog, som engelsk eller tysk. Målgruppen er [DU1]()- og DU2 kursister. Jeg har skabt Dansk udtalecoach ud fra to hovedprincipper:
+Denne app skal være en hjælp for de kursister som har sværest ved dansk udtale, fordi de ikke taler et germansk sprog, som engelsk eller tysk. Målgruppen er DU1- og DU2 kursister. Jeg har skabt Dansk udtalecoach ud fra to hovedprincipper:
 
 • *Feedback på modersmål*: Ved at give instruktioner og feedback på kursistens eget sprog, mindskes den kognitive belastning. Eleven skal ikke kæmpe med at forstå instruksen, men kan bruge al energi på selve udtalen.
 
@@ -35,7 +37,7 @@ Her arbejder vi med de konsonanter, der ændrer lyd afhængigt af deres placerin
 3. 
 Vokalerne er opdelt i tre logiske grupper for at gøre det uoverskuelige vokal-system håndterbart.
 
-• Gruppe 1 (i, e, æ, α, a): (*klar*) Den klassiske vokaltrappe. At jeg bruger en vokaltrappe i stedet for det klassiske vokalskema, skyldes anbefalinger fra rapporten *[Udtalehjælp for vietnamesere og kinesere]()* Her er fokus på afstanden mellem tænderne (som i virkeligheden er afstanden mellem tunge og gane) og mundens åbning.
+• Gruppe 1 (i, e, æ, α, a): (*klar*) I stedet for et klassisk vokalskema bruger en vokaltrappe i stedet for. Det skyldes anbefalinger i rapporten [[Udtalehjælp for vietnamesere og kinesere\|Udtalehjælp for vietnamesere og kinesere]]. Her er fokus på afstanden mellem tænderne (som i virkeligheden er afstanden mellem tunge og gane) og mundens åbning.
 
 • Gruppe 2 og 3: (*ikke klar*) Fokus på læberunding og åbne lyde.
 • Progression: Fra de lukkede, smilende vokaler til de rundede.
