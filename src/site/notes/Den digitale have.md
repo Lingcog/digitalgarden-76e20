@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/den-digitale-have/","tags":["gardenEntry"],"created":"2025-04-06T00:21:35.000+02:00","updated":"2026-02-16T23:00:10.658+01:00"}
+{"dg-publish":true,"permalink":"/den-digitale-have/","tags":["gardenEntry"],"created":"2025-04-06T00:21:35.000+02:00","updated":"2026-02-16T23:15:58.822+01:00"}
 ---
 
 
@@ -12,7 +12,7 @@ Her kan du gå på opdagelse i mine forskellige interesseområder. Mine tanker o
 **Feedback**
 I det sidste årstid har jeg beskæftiget mig med [[Feedback\|feedback]], først da jeg skulle skrive om emnet i en [[Observationsrapport\|observationsrapport]] i faget Andetsprogspædagogik. Dernæst dannede mine observationer grundlag for at undersøge fænomenerne feedback og AI-integration i et [[Speciale\|speciale]], som jeg skrev i efteråret 2025. 
 
-På baggrund af mine indsigter i mit speciale og de pædagogiske tanker jeg bidrog med til Dansk Udtaleordbog har jeg udviklet en udtaleapp, der giver instruktioner og feedback på brugerens sprog. Jeg har kaldt denne app for [Dansk udtalecoach](). 
+På baggrund af mine indsigter i mit speciale og de pædagogiske tanker jeg bidrog med til Dansk Udtaleordbog har jeg udviklet en udtaleapp, der giver instruktioner og feedback på brugerens sprog. Jeg har kaldt denne app for Dansk udtalecoach. Læs mere her: [Dansk udtalecoach - hvad er det? ]()
 
 **Pædagogik**
 Et andet emne som optager mig, er [[Pædagogik\|pædagogik]]. Det er især underkategorierne [[Konstruktivisme og kognitions psykologi\|konstruktivisme og kognitions psykologi]] jeg beskæftiger mig mest med.
