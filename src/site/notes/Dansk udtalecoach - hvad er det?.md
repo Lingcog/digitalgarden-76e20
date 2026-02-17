@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dansk-udtalecoach-hvad-er-det/","created":"2026-02-16T12:40:31.000+01:00","updated":"2026-02-16T23:41:17.995+01:00"}
+{"dg-publish":true,"permalink":"/dansk-udtalecoach-hvad-er-det/","created":"2026-02-16T12:40:31.000+01:00","updated":"2026-02-17T13:58:18.572+01:00"}
 ---
 
 
@@ -18,10 +18,12 @@ Appen giver pt. instrukser på albansk, arabisk, dansk, engelsk, farsi, fransk, 
 
 • *Live-analyse*: Appen giver øjeblikkelig visuel feedback. Farvekoder og procenter fungerer som et "spejl" for stemmen, der hjælper kursisten med at justere sin artikulation i realtid.
 
+HUSK at sige til dine kursister at det er meget fint at få 60 - 70 procent, så kan man stadig godt blive forstået af danskere. De må ikke blive modløse over, at det er svært at få 100 procent korrekthed. Det er med vilje at jeg har programmeret appen til at bedømme strengt.
+
 For at holde designet så rent muligt har jeg undladt at indsætte ikoner som "tryk her for at optage", for jeg håber at det er intuitivt, at man skal trykke på den blå optagerknap, og trykke på den røde afbryderknap når man er færdig med sit input.
 
 ### **Opgavernes opbygning** 
-Træningen er tilrettelagt som en rejse fra isolerede lyde til naturlig tale og der er en progressiv sværhedsgrad.
+Træningen er tilrettelagt som en rejse fra isolerede lyde til naturlig tale, og der er en progressiv sværhedsgrad.
 
 1. Konsonanter
 
@@ -36,7 +38,7 @@ Her arbejder vi med de konsonanter, der ændrer lyd afhængigt af deres placerin
 • Visuel støtte: En lille pil peger præcis på det bogstav, eleven skal have fokus på.
 
 2. Vokaler (Det danske vokallandskab)
-3. 
+
 Vokalerne er opdelt i tre logiske grupper for at gøre det uoverskuelige vokal-system håndterbart.
 
 • Gruppe 1 (i, e, æ, α, a): (*klar*) I stedet for et klassisk vokalskema bruger en vokaltrappe i stedet for. Det skyldes anbefalinger i rapporten [[Udtalehjælp for vietnamesere og kinesere\|Udtalehjælp for vietnamesere og kinesere]]. Her er fokus på afstanden mellem tænderne (som i virkeligheden er afstanden mellem tunge og gane) og mundens åbning.
@@ -58,7 +60,7 @@ Stødet, også kaldet glotalt stop, er det det gør dansk særegent. Traditionel
 
 Det øverste niveau, hvor eleven ikke længere læser en fast tekst, men taler frit.
 
-• Formål: At teste om udtalen er god nok til, at en maskine (og dermed en dansker) kan forstå budskabet i en naturlig sammenhæng. I denne opgave bliver brugeren ikke bare testet på korrektudtale, men også på korrekt intonation. En underviser kan udnytte at AI-modellen skriver hvad brugeren har sagt, hvis vedkommende har en distinkt udtale. Så man kan både arbejde med tydelig udtale og intonation.
+• Formål: At teste om udtalen er god nok til, at en maskine (og dermed en dansker) kan forstå budskabet i en naturlig sammenhæng. I denne opgave bliver brugeren ikke bare testet på korrektudtale, men også på korrekt intonation. En underviser kan udnytte at AI-modellen skriver hvad brugeren har sagt, hvis vedkommende har en distinkt udtale. Så man kan både arbejde med tydelig udtale og intonation. AI modellen belønner rundhåndet en ok intonation (80-90 procent) så for at motivere dine kursister til at gøre sig umage, kan du som sagt udfordre dem til at tale sådan at AI modellen rent faktisk skriver det de prøver at sige.
 
 ### **Lingvistisk skarphed vs. Pædagogisk hensyn**
 Under udviklingen af appen har jeg måttet "klippe en tå og skære en hæl" i de sproglige forklaringer for at gøre appen anvendelig for DU1/DU2-kursister:
