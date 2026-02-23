@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dansk-udtalecoach-hvad-er-det/","created":"2026-02-16T12:40:31.000+01:00","updated":"2026-02-17T13:58:18.572+01:00"}
+{"dg-publish":true,"permalink":"/dansk-udtalecoach-hvad-er-det/","created":"2026-02-16T12:40:31.000+01:00","updated":"2026-02-23T07:50:22.752+01:00"}
 ---
 
 
@@ -50,7 +50,7 @@ Vokalerne er opdelt i tre logiske grupper for at gøre det uoverskuelige vokal-s
 
 4. Stød (*4 eksempler*)
 
-Stødet, også kaldet glotalt stop, er det det gør dansk særegent. Traditionelt har man i undervisningen lagt vægt på konstriktion af stemmelæberne, men jeg har haft bedre resultater ved at instruere mine kursister i at stramme mavemusklerne i forbindelse med udtale af stødet. 
+Stødet, også kaldet glotalt lukke, er det det gør dansk særegent. Traditionelt har man i undervisningen lagt vægt på konstriktion af stemmelæberne, men jeg har haft bedre resultater ved at instruere mine kursister i at stramme mavemusklerne i forbindelse med udtale af stødet. 
 
 • Høre og mærke: Da eleven ikke kan se stødet, bruger vi AI til at detektere de mikroskopiske pauser og spændinger i stemmen.
 
