@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dansk-udtalecoach-hvad-er-det/","created":"2026-02-16T12:40:31.000+01:00","updated":"2026-02-23T07:51:18.675+01:00"}
+{"dg-publish":true,"permalink":"/dansk-udtalecoach-hvad-er-det/","created":"2026-02-16T12:40:31.000+01:00","updated":"2026-02-28T10:00:45.921+01:00"}
 ---
 
 
@@ -18,9 +18,9 @@ Appen giver pt. instrukser på albansk, arabisk, dansk, engelsk, farsi, fransk, 
 
 • *Live-analyse*: Appen giver øjeblikkelig visuel feedback. Farvekoder og procenter fungerer som et "spejl" for stemmen, der hjælper kursisten med at justere sin artikulation i realtid.
 
-HUSK at sige til dine kursister at det er meget fint at få 60 - 70 procent, så kan man stadig godt blive forstået af danskere. De må ikke blive modløse over, at det er svært at få 100 procent korrekthed. Det er med vilje at jeg har programmeret appen til at bedømme strengt.
+HUSK at sige til dine kursister at det er meget fint at få 60 - 70 procent, så kan man stadig godt blive forstået af danskere. De må ikke blive modløse over, at det er svært at få 100 procent korrekthed. Det er med vilje, at jeg har programmeret appen til at bedømme strengt.
 
-For at holde designet så rent muligt har jeg undladt at indsætte ikoner som "tryk her for at optage", for jeg håber at det er intuitivt, at man skal trykke på den blå optagerknap, og trykke på den røde afbryderknap når man er færdig med sit input.
+For at holde designet så rent muligt har jeg undladt at indsætte ikoner som "tryk her for at optage", for jeg håber at det er intuitivt, at man skal trykke på den blå optagerknap og trykke på den røde afbryderknap, når man er færdig med sit input.
 
 ### **Opgavernes opbygning** 
 Træningen er tilrettelagt som en rejse fra isolerede lyde til naturlig tale, og der er en progressiv sværhedsgrad.
@@ -30,8 +30,8 @@ Træningen er tilrettelagt som en rejse fra isolerede lyde til naturlig tale, og
 Her arbejder vi med de konsonanter, der ændrer lyd afhængigt af deres placering i ordet.
 
 1. Bogstav D (*klar*)
-2. Bogstav R (ikke klar)
-3. Bogstav G (ikke klar)
+2. Bogstav R (*klar*)
+3. Bogstav G (*klar*)
 
 • Progression: Vi starter med de "hårde" lyde i starten af ord, som ligner kursistens eget sprog. Herefter bevæger vi os mod de bløde lyde og til sidst de stumme lyde, som ofte er sværest at huske.
 
@@ -41,12 +41,12 @@ Her arbejder vi med de konsonanter, der ændrer lyd afhængigt af deres placerin
 
 Vokalerne er opdelt i tre logiske grupper for at gøre det uoverskuelige vokal-system håndterbart.
 
-• Gruppe 1 (i, e, æ, α, a): (*klar*) I stedet for et klassisk vokalskema bruger en vokaltrappe i stedet for. Det skyldes anbefalinger i rapporten [[Udtalehjælp for vietnamesere og kinesere\|Udtalehjælp for vietnamesere og kinesere]]. Her er fokus på afstanden mellem tænderne (som i virkeligheden er afstanden mellem tunge og gane) og mundens åbning.
+• Gruppe 1 (i, e, æ, α, a): (*klar*) I stedet for et klassisk vokalskema benytter jeg en vokaltrappe i stedet for. Det skyldes anbefalinger i rapporten [[Udtalehjælp for vietnamesere og kinesere\|Udtalehjælp for vietnamesere og kinesere]]. Her er fokus på afstanden mellem tænderne (som i virkeligheden er afstanden mellem tunge og gane) og mundens åbning.
 
 • Gruppe 2 og 3: (*ikke klar*) Fokus på læberunding og åbne lyde.
 • Progression: Fra de lukkede, smilende vokaler til de rundede.
 
-3. Vokalsænkning (ikke klar)
+3. Vokalsænkning (*ikke klar*)
 
 4. Stød (*4 eksempler*)
 
@@ -63,11 +63,11 @@ Det øverste niveau, hvor eleven ikke længere læser en fast tekst, men taler f
 • Formål: At teste om udtalen er god nok til, at en maskine (og dermed en dansker) kan forstå budskabet i en naturlig sammenhæng. I denne opgave bliver brugeren ikke bare testet på korrektudtale, men også på korrekt intonation. En underviser kan udnytte at AI-modellen skriver hvad brugeren har sagt, hvis vedkommende har en distinkt udtale. Så man kan både arbejde med tydelig udtale og intonation. AI modellen belønner rundhåndet en ok intonation (80-90 procent) så for at motivere dine kursister til at gøre sig umage, kan du som sagt udfordre dem til at tale sådan at AI modellen rent faktisk skriver det de prøver at sige.
 
 ### **Lingvistisk skarphed vs. Pædagogisk hensyn**
-Under udviklingen af appen har jeg måttet "klippe en tå og skære en hæl" i de sproglige forklaringer for at gøre appen anvendelig for DU1/DU2-kursister:
+Under udviklingen af appen har jeg måttet "hugge en hæl og klippe en tå" i de sproglige forklaringer for at gøre appen anvendelig for DU1/DU2-kursister:
 
-• Fravalg af IPA: Det internationale fonetiske  alfabet (IPA) kan være gavnligt for kursister der allerede kender det. Dog introducerer jeg det på DU3 for kursister der ikke kender det, og i visse tilfælde giver jeg eksempler på DU2. Men der er så meget at forholde sig til for en kursist på DU1. Måske er vedkommende først for nylig blevet alfabetiseret. Jeg har derfor fravalgt det for at sænke den kognitive belastning. Instruktionerne ("smil mere", "åbn munden") indeholder i store træk den samme fonetiske information, men i et sprog kursisten forstår.
+• Fravalg af IPA: Det internationale fonetiske alfabet (IPA) kan være gavnligt for kursister der allerede kender det. Dog introducerer jeg det på DU3 for kursister der ikke kender det, og i visse tilfælde giver jeg eksempler på DU2. Men der er så meget at forholde sig til for en kursist på DU1. Måske er vedkommende først for nylig blevet alfabetiseret. Jeg har derfor fravalgt det for at sænke den kognitive belastning. Instruktionerne ("smil mere", "åbn munden") indeholder i store træk den samme fonetiske information, men i et sprog kursisten forstår.
 
-• Alfa (α) vs. A: Selvom jeg søger at undgå IPA, har jeg introduceret α-tegnet for at hjælpe eleven med at kende forskel på det lyse "katte-a" og det dybe "kappe-a". Det er et nødvendigt kompromis for at skabe den nødvendige præcision i vokaltræningen.
+• Alfa (α) vs. A: Selvom jeg søger at undgå IPA, har jeg introduceret α-tegnet for at hjælpe eleven med at kende forskel på "katte-a" og det dybere "kappe-a". Det er et nødvendigt kompromis for at skabe den nødvendige præcision i vokaltræningen.
 
 • En ramme til underviseren: Appen er tænkt som en fleksibel ramme. Den er ikke tænkt som et redskab til selvstudie, men er optimal som et værktøj, læreren kan inddrage og tilpasse til sin specifikke undervisning og de fejltyper, der er i fokus. Jeg undskylder på forhånd hvis du ikke bryder dig om de visuelle diagrammer. 
 
@@ -76,3 +76,10 @@ Jeg er bevidst om, at jeg stiller mig på "øretævernes holdeplads" ved at fore
 Driften af en app, der benytter avancerede AI-modeller til både udtaleanalyse (GOP) og naturlig stemmegengivelse (Neural TTS), indebærer reelle omkostninger til serverkraft og API-kald. For at sikre, at appen forbliver et værktøj for alle, er det min ambition at holde den fri for en klassisk betalingsmur. Det pædagogiske sigte bag Dansk udtalecoach er netop at bygge bro, og det ville være modstridende at lade økonomi blive en ny barriere for de kursister, der har allermest brug for støtten.
 
 For at dette kan lade sig gøre, er appen afhængig af frivillige bidrag og potentielle økonomiske partnerskaber. Ved at basere økonomien på støtte frem for tvungen betaling, sikrer vi, at de mest mindrebemidlede kursister har samme adgang til moderne udtaletræning som alle andre. Dette er ikke blot et teknologisk projekt, men et socialt og demokratisk bidrag til integrationen og sprogtilegnelsen i Danmark.
+
+**Til de teknisk interesserede:**
+DanskUdtaleCoach er bygget på et avanceret teknisk fundament, der kombinerer moderne deep learning med specifik viden om dansk fonetik. Appens kerne er sprogmodellen **wav2vec2-base-da-ft-nst** fra Alvenir, som i dag anses for at være en af de mest robuste modeller til behandling af dansk tale. Denne model er primært finjusteret på **NST-datasættet** (Nordisk Sprogteknologi), som udgør guldstandarden for dansk taleteknologi med sit omfattende korpus af annoteret tale og dialektvariation.
+
+For at håndtere de særlige udfordringer i det danske sprog har vi implementeret specialiseret fonetisk logik direkte i koden. Dette inkluderer blandt andet en dedikeret funktion til detektering af **stød-signaturer**, som analyserer specifikke "energi-dyk" (dips) i lydbilledet for præcist at identificere stød i ord som "vejret" og "hund".
+
+Derudover indeholder systemet intelligent logik til overvågning af det **bløde d** ([ð̠]), hvor appen tjekker for typiske substitutioner (f.eks. hvis brugeren erstatter lyden med et [l] eller en hård lukkelyd). Ved at kombinere dette med en **prosodi-analyse**, der måler fundamental-frekvensen (F0), beregner vi en samlet "naturalness score". Denne score vurderer, om brugerens intonationsmønstre følger de naturlige danske konventioner, hvilket sikrer, at træningen ikke kun fokuserer på enkelte lyde, men på sprogets overordnede rytme og melodi.
