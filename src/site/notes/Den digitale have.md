@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/den-digitale-have/","tags":["gardenEntry"],"created":"2025-04-06T00:21:35.000+02:00","updated":"2026-03-01T23:34:51.199+01:00"}
+{"dg-publish":true,"permalink":"/den-digitale-have/","tags":["gardenEntry"],"created":"2025-04-06T00:21:35.000+02:00","updated":"2026-03-02T07:28:39.404+01:00"}
 ---
 
 
@@ -10,7 +10,7 @@
 Her kan du gå på opdagelse i mine forskellige interesseområder. Mine tanker og ideer er som frø, altså lidt ubearbejdede, men med potentiale til at udvikle sig til mere. Som det fremgår af websidens navn lingcog.com er min store passion lingvistik og kognition. 
 
 **Feedback**
-I det sidste årstid har jeg beskæftiget mig med [[Feedback\|feedback]], først da jeg skulle skrive om emnet i en [[Observationsrapport\|observationsrapport]] i faget Andetsprogspædagogik. Dernæst dannede mine observationer grundlag for at undersøge fænomenerne feedback og AI-integration i et [[Speciale\|speciale]], som jeg skrev i efteråret 2025. 
+I det sidste års tid har jeg beskæftiget mig med [[Feedback\|feedback]], først da jeg skulle skrive om emnet i en [[Observationsrapport\|observationsrapport]] i faget Andetsprogspædagogik. Dernæst dannede mine observationer grundlag for at undersøge fænomenerne feedback og AI-integration i et [[Speciale\|speciale]], som jeg skrev i efteråret 2025. 
 
 På baggrund af mine indsigter i mit speciale og de pædagogiske tanker jeg bidrog med til Dansk Udtaleordbog har jeg udviklet en udtaleapp, der giver instruktioner og feedback på brugerens sprog. Jeg har kaldt denne app for Dansk udtalecoach. Læs mere her: [[Dansk udtalecoach - hvad er det?\|Dansk udtalecoach - hvad er det?]] Næste skud på stammen er [[Ny dansk grammatikapp\|Ny dansk grammatikapp]].
 
