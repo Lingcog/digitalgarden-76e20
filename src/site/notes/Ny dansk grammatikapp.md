@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ny-dansk-grammatikapp/","created":"2026-03-01T23:23:58.259+01:00","updated":"2026-03-01T23:36:35.098+01:00"}
+{"dg-publish":true,"permalink":"/ny-dansk-grammatikapp/","created":"2026-03-01T23:23:58.259+01:00","updated":"2026-03-02T07:21:33.285+01:00"}
 ---
 
 **Underviserguide**
@@ -21,6 +21,8 @@ Denne platform er udviklet med det formål at fungere som en digital assistent f
 
 - **Feedback-loop**: Først ved samtalens afslutning genererer AI'en **to målrettede grammatiktips**. Dette gør feedbacken overskuelig og sikrer, at kursisten kan integrere rettelserne uden at føle sig overvældet.
 - **Underviser-fordel**: Kursisten får en tryg "legeplads" til at øve mundtlighed, som ellers kan være tidskrævende i plenum.
+- **Brugertips:** Tryk kort på optagerknappen og indtal beskeden. Man skal ikke trykke når man er færdig, for så afbryder man optagelsen. Efterfølgende bliver ens besked vist på skærmen.
+  
 
 ✍️ Skrivehjælp
 
@@ -56,7 +58,4 @@ Denne platform er udviklet med det formål at fungere som en digital assistent f
 
 📈 **Integration og Udvidelse**
 
-- **Mundtlig Træning**: Lige nu tilbydes der fokuseret træning til **DU2, Modul 4 mundtlig test**, hvilket er en ideel hjemmeopgave før en mock-test.
-- **Løbende opdateringer**: Jeg tilføjer jævnligt nye moduler og testformater. Jeg opfordrer undervisere til at bruge "Dagens opgaver" som små hurtige øvelser i starten af en lektion.
-
-_Vi håber, at du finder appen nyttig som et supplement til din undervisning og som en katalysator for dine kursisters sproglige udvikling._
+- **Mundtlig Træning**: Lige nu tilbydes der fokuseret træning til **DU2, Modul 4 mundtlig test**, hvilket er en ideel hjemmeopgave før en mock-t
