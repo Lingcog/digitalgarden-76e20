@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ny-dansk-grammatikapp/","created":"2026-03-01T23:23:58.259+01:00","updated":"2026-03-02T07:21:33.285+01:00"}
+{"dg-publish":true,"permalink":"/ny-dansk-grammatikapp/","created":"2026-03-01T23:23:58.000+01:00","updated":"2026-03-02T15:36:07.268+01:00"}
 ---
 
 **Underviserguide**
@@ -58,4 +58,7 @@ Denne platform er udviklet med det formål at fungere som en digital assistent f
 
 📈 **Integration og Udvidelse**
 
-- **Mundtlig Træning**: Lige nu tilbydes der fokuseret træning til **DU2, Modul 4 mundtlig test**, hvilket er en ideel hjemmeopgave før en mock-t
+- **Mundtlig Træning**: Lige nu tilbydes der fokuseret træning til **DU2, Modul 4 mundtlig test**, hvilket er en ideel hjemmeopgave før en test.
+
+**Dagens opgaver**
+- **Ordforråd:** En opgave, der hedder "Lær et nyt ord", er inspireret af Birgit Henriksens anbefalinger til indlæring af nyt ordforråd. I [[Henriksen (1995)\|Henriksen (1995)]] opfordrer hun til at man går i dybden når det drejer sig om at tilegne sig et nyt ord. Det vil sige undersøge et ords forbindelse til synonyme og antonyme ord og under- og overbegreber.
