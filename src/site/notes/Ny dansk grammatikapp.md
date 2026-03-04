@@ -1,19 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/ny-dansk-grammatikapp/","created":"2026-03-01T23:23:58.000+01:00","updated":"2026-03-04T11:23:34.271+01:00"}
+{"dg-publish":true,"permalink":"/ny-dansk-grammatikapp/","created":"2026-03-01T23:23:58.000+01:00","updated":"2026-03-04T11:55:46.493+01:00"}
 ---
 
 **Underviserguide**
+
+Indhold:
+[[Ny dansk grammatikapp#**Risiko for fejl i øvelserne.**\|#**Risiko for fejl i øvelserne.**]]
+[[Ny dansk grammatikapp#🛠 **Kernefunktioner og Pædagogiske Metoder**\|#🛠 **Kernefunktioner og Pædagogiske Metoder**]]
+[[Ny dansk grammatikapp#💡**Pædagogiske Højdepunkter til Undervisningen**\|#💡**Pædagogiske Højdepunkter til Undervisningen**]]
+[[Ny dansk grammatikapp#**For de teknologisk interessede brugere **\|#**For de teknologisk interessede brugere **]]
 
 _En pædagogisk ressource til danskuddannelserne_
 
 Denne platform er udviklet med det formål at fungere som en digital assistent for undervisere og kursister. Appen integrerer moderne pædagogiske principper som stilladsering, differentiering og fokuseret feedback for at optimere tilegnelsen af dansk som andetsprog. Den bygger på mine erkendelser i mit [[Speciale\|speciale]].
 
-**Risiko for fejl i øvelserne.**
+##### **Risiko for fejl i øvelserne.**
 Som med al teknologi der involverer AI, er der risiko for fejl. Det samme gælder de øvelser jeg faciliterer i min app. Teknologien er meget avanceret. Der findes, så vidt jeg ved, ikke en lignende app der inddrager feedback på brugerens modersmål. Det tager tid for AI at svare på et kald og generere en opgave, der strengt følger mit prompt. Derfor har jeg også købt et månedligt abonnement hos Netlify, der tillader svartider på op til 26 sek, i forhold til gratistjenesten, som kun tillader svar tider på 10 sek.
 
 Det har altså for mig været en balance mellem at få genereret øvelser af høj kvalitet og acceptere, at der kan opstå fejl for ikke at overskride tidsgrænsen. Jeg har sagt til mine kursister at de skal være kritiske, og det har været givende at observere hvordan nogle af dem med stolthed i øjnene har gjort mig opmærksom på enkelte fejl. Det er jeg overbevist om gør dem mere opmærksomme på sprogets former. 
 
-🛠 **Kernefunktioner og Pædagogiske Metoder**
+##### 🛠 **Kernefunktioner og Pædagogiske Metoder**
 
 💬 Samtaletræning
 
@@ -53,7 +59,7 @@ Det har altså for mig været en balance mellem at få genereret øvelser af hø
 
 
 
-💡 **Pædagogiske Højdepunkter til Undervisningen**
+##### 💡 **Pædagogiske Højdepunkter til Undervisningen**
 
 - **Modersmålet som ressource**: Jeg ser kursistens modersmål som en værdifuld bro til det nye sprog. Ved at tillade feedback på modersmålet minimeres misforståelser i de metalingvistiske forklaringer.
   
@@ -69,3 +75,6 @@ Det har altså for mig været en balance mellem at få genereret øvelser af hø
 
 **Dagens opgaver**
 - **Ordforråd:** En opgave, der hedder "Lær et nyt ord", er inspireret af Birgit Henriksens anbefalinger til indlæring af nyt ordforråd. I [[Henriksen (1995)\|Henriksen (1995)]] opfordrer hun til at man går i dybden når det drejer sig om at tilegne sig et nyt ord. Det vil sige undersøge et ords forbindelse til synonyme og antonyme ord og under- og overbegreber.
+
+##### **For de teknologisk interessede brugere:** 
+Appen er udviklet med værktøjet antigravity fra Google. Jeg kan ikke kode, så jeg koder ved hjælp af prompts. Hvis andre vil gøre mig kunsten efter, vil jeg blot sige held og lykke. Du kommer til at skulle bruge hele weekender på at lave fejltestning, for AI spytter ikke bare en færdig app ud på 10 minutter. Desuden har jeg købt et abonnement på hurtig respons fra Gemini (modellen 2,5 flash), og eftersom jeg er betalende kunde, bedyrer Google at Gemini ikke bliver trænet på input fra brugeren. 
