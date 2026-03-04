@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ritchhart-church-and-morrison-2011/","created":"2024-05-02T07:29:01.000+02:00","updated":"2025-04-17T15:44:04.000+02:00"}
+{"dg-publish":true,"permalink":"/ritchhart-church-and-morrison-2011/","created":"2024-05-02T07:29:01.000+02:00","updated":"2026-03-04T12:05:52.946+01:00"}
 ---
 
 [[Undervisningsmetoder - hvilke er effektive eller ineffektive?\|Undervisningsmetoder - hvilke er effektive eller ineffektive?]]
@@ -8,6 +8,7 @@
 
 Ron Ritchhart, Mark Church, Karin Morrison, Making Thinking Visible: How to Promote Engagement, Understanding, and Independence, 2011, Jossey-Bass.
 
+Dette er mine lynhurtige noter til denne lydbog.
 
 **Tænkning er ikke hierarkisk**
 Ikke lineær, men cirkulær. Eksempel: kreativ job.
