@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ny-dansk-grammatikapp/","created":"2026-03-01T23:23:58.000+01:00","updated":"2026-03-04T11:55:46.493+01:00"}
+{"dg-publish":true,"permalink":"/ny-dansk-grammatikapp/","created":"2026-03-01T23:23:58.000+01:00","updated":"2026-03-04T11:57:19.941+01:00"}
 ---
 
 **Underviserguide**
@@ -8,7 +8,7 @@ Indhold:
 [[Ny dansk grammatikapp#**Risiko for fejl i øvelserne.**\|#**Risiko for fejl i øvelserne.**]]
 [[Ny dansk grammatikapp#🛠 **Kernefunktioner og Pædagogiske Metoder**\|#🛠 **Kernefunktioner og Pædagogiske Metoder**]]
 [[Ny dansk grammatikapp#💡**Pædagogiske Højdepunkter til Undervisningen**\|#💡**Pædagogiske Højdepunkter til Undervisningen**]]
-[[Ny dansk grammatikapp#**For de teknologisk interessede brugere **\|#**For de teknologisk interessede brugere **]]
+[[Ny dansk grammatikapp#**For de teknologisk interessede brugere**\|#**For de teknologisk interessede brugere**]]
 
 _En pædagogisk ressource til danskuddannelserne_
 
