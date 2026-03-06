@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/ny-dansk-grammatikapp/","created":"2026-03-01T23:23:58.000+01:00","updated":"2026-03-04T12:00:50.148+01:00"}
+{"dg-publish":true,"permalink":"/ny-dansk-grammatikapp/","created":"2026-03-01T23:23:58.000+01:00","updated":"2026-03-06T23:43:33.264+01:00"}
 ---
 
 **Underviserguide**
 
 Indhold:
 [[Ny dansk grammatikapp#**Risiko for fejl i øvelserne.**\|#**Risiko for fejl i øvelserne.**]]
-[[Ny dansk grammatikapp#🛠 **Kernefunktioner og Pædagogiske Metoder**\|#🛠 **Kernefunktioner og Pædagogiske Metoder**]]
-[[Ny dansk grammatikapp#💡**Pædagogiske Højdepunkter til Undervisningen**\|#💡**Pædagogiske Højdepunkter til Undervisningen**]]
+[[Ny dansk grammatikapp#🛠 **Kernefunktioner og pædagogiske metoder**\|#🛠 **Kernefunktioner og pædagogiske metoder**]]
+[[Ny dansk grammatikapp#💡 **Pædagogiske højdepunkter**\|#💡 **Pædagogiske højdepunkter**]]
 [[Ny dansk grammatikapp#**For de teknologisk interessede brugere**\|#**For de teknologisk interessede brugere**]]
 
 _En pædagogisk ressource til danskuddannelserne_
@@ -19,7 +19,7 @@ Som med al teknologi der involverer AI, er der risiko for fejl. Det samme gælde
 
 Det har altså for mig været en balance mellem at få genereret øvelser af høj kvalitet og acceptere, at der kan opstå fejl for ikke at overskride tidsgrænsen. Jeg har sagt til mine kursister at de skal være kritiske, og det har været givende at observere hvordan nogle af dem med stolthed i øjnene har gjort mig opmærksom på enkelte fejl. Det er jeg overbevist om gør dem mere opmærksomme på sprogets former. 
 
-##### 🛠 **Kernefunktioner og Pædagogiske Metoder**
+##### 🛠 **Kernefunktioner og pædagogiske metoder**
 
 💬 Samtaletræning
 
@@ -57,9 +57,7 @@ Det har altså for mig været en balance mellem at få genereret øvelser af hø
 
 - **Støttet læring**: Modersmålsforklaringerne sikrer, at kursisten ikke blot gætter, men forstår _hvorfor_ et ord er det rette valg i den givne kontekst.
 
-
-
-##### 💡 **Pædagogiske Højdepunkter til Undervisningen**
+##### 💡 **Pædagogiske højdepunkter**
 
 - **Modersmålet som ressource**: Jeg ser kursistens modersmål som en værdifuld bro til det nye sprog. Ved at tillade feedback på modersmålet minimeres misforståelser i de metalingvistiske forklaringer.
   
@@ -67,8 +65,14 @@ Det har altså for mig været en balance mellem at få genereret øvelser af hø
 
 - **Fokus på sprogproduktion og proces**: Appen prioriterer processen frem for det færdige produkt. Gennem hints og efterfølgende feedback tvinges kursisten til at reflektere over deres eget sprog (output-hypotesen).
 - **Systematisk testforberedelse**: Øvelserne i "Træning til modultest" og de varierede opgaver i "Dagens opgave" giver kursisterne en tryg ramme til at automatisere færdigheder, de skal bruge til test
-  
 
+##### **Grammatik – fra klodser til fulde tekster**
+For at gøre abstrakt dansk grammatik mere nærværende og lettere at forstå, er "Dagens Opgave" inddelt pædagogisk: _Klodserne_ (sætningsdele), _Strukturen_ (den hele sætning) og _Sammenhængen_ (flere sætninger). Kursisten starter med de basale byggeklodser – som pronominer og verber – for derefter at lære at sætte dem korrekt ind i en samlet sætning. Til sidst trænes evnen til at binde sætningerne sammen, så de danner et flydende og meningsfuldt tekstflow.
+
+![28C77938-9E3D-427B-B61B-1F07014B6F5A.png](/img/user/28C77938-9E3D-427B-B61B-1F07014B6F5A.png)
+
+**En visuel guide til sproget** Den didaktiske progression fjerner forvirringen og giver et klart visuelt landkort over sprogets natur. Kursisterne oplever ikke grammatikken som en tilfældig samling regler, men som en rejse fra det lille præcise ord til det større, sammenhængende budskab. Denne tydelige struktur gør det nemt og trygt at navigere i opgaverne, fordi man altid kan se den røde tråd og formålet med det, man træner.
+  
 📈 **Integration og Udvidelse**
 
 - **Mundtlig Træning**: Lige nu tilbydes der fokuseret træning til **DU2, Modul 4 mundtlig test**, hvilket er en ideel hjemmeopgave før en test.
