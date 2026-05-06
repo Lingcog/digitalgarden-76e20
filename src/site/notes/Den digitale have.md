@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/den-digitale-have/","tags":["gardenEntry"],"created":"2025-04-06T00:21:35.000+02:00","updated":"2026-05-06T10:16:50.474+02:00"}
+{"dg-publish":true,"permalink":"/den-digitale-have/","tags":["gardenEntry"],"created":"2025-04-06T00:21:35.000+02:00","updated":"2026-05-06T10:52:50.448+02:00"}
 ---
 
 
@@ -15,7 +15,7 @@ I det sidste års tid har jeg beskæftiget mig med [[Feedback\|feedback]], førs
 På baggrund af mine indsigter i mit speciale og de pædagogiske tanker jeg bidrog med til Dansk Udtaleordbog har jeg udviklet en udtaleapp, der giver instruktioner og feedback på brugerens sprog. Jeg har kaldt denne app for Dansk udtalecoach. Læs mere her: [[Dansk udtalecoach - hvad er det?\|Dansk udtalecoach - hvad er det?]] Næste skud på stammen blev [[Ny dansk grammatikapp\|Ny dansk grammatikapp]]. Men en måned senere udviklede jeg [[Ny gratis grammatikapp\|Ny gratis grammatikapp]].
 
 **Pædagogik**
-Et andet emne som optager mig, er [[Pædagogik\|pædagogik]]. Det er især underkategorierne [[Konstruktivisme og kognitions psykologi\|konstruktivisme og kognitions psykologi]] jeg beskæftiger mig mest med .
+Et andet emne som optager mig, er [[Pædagogik\|pædagogik]]. Det er især underkategorierne [[Konstruktivisme og kognitions psykologi\|konstruktivisme og kognitions psykologi]] jeg beskæftiger mig mest med.
 
 Jeg er begyndt at arbejde med historiefortælling understøttet af AI i undervisningen. [[Læring gennem historier\|Læring gennem historier]] tror jeg kan være en ny og forfriskende måde at engagere kursister på.
 
