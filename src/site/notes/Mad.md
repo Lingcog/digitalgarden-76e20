@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mad/"}
+{"dg-publish":true,"permalink":"/mad/","dg-note-properties":{}}
 ---
 
 #### Alle ord har enten et eller en foran
