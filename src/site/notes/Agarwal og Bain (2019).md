@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/agarwal-og-bain-2019/","created":"2022-03-28T09:18:26.000+02:00","updated":"2026-03-04T12:19:05.944+01:00"}
+{"dg-publish":true,"permalink":"/agarwal-og-bain-2019/","dg-note-properties":{}}
 ---
 
 Pooja K. Agarwal og Patricia M. Bain (2019), *Powerfull teaching - Unleash the Science of Teaching,* Jossey-Bass, 

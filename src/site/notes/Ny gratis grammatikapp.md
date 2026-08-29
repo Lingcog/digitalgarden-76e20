@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ny-gratis-grammatikapp/","created":"2026-04-07T07:59:27.895+02:00","updated":"2026-04-08T14:43:02.555+02:00"}
+{"dg-publish":true,"permalink":"/ny-gratis-grammatikapp/","dg-note-properties":{}}
 ---
 
 Velkommen til den nyeste udgave af min digitale assistent for undervisere og kursister i dansk som andetsprog! Min [tidligere app](https://lingcog.com/ny-dansk-grammatikapp/) lagde vægt på at en frase kan indgå i en sætning som til gengæld kan indgå i en helsætning med en konjunktion, altså et meget mekanisk og funktionelt sprogsyn. Denne nye app hviler på et funktionelt-kognitivt sprogsyn der lægger op til at kursister skal eksperimentere med sprogets bestanddele og forstå at betydning ændrer sig, når vi skifter nogle dele ud med andre. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/laerergerning/","created":"2022-04-06T19:50:01.000+02:00","updated":"2025-04-06T14:17:58.854+02:00"}
+{"dg-publish":true,"permalink":"/laerergerning/","dg-note-properties":{}}
 ---
 
 #### Attraktiv lærerpersonlighed

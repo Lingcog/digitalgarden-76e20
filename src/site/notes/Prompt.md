@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/prompt/","created":"2024-04-18T13:11:42.652+02:00","updated":"2025-04-06T14:10:18.000+02:00"}
+{"dg-publish":true,"permalink":"/prompt/","dg-note-properties":{"aliases":["prompts","prompt"]}}
 ---
 
 [[Korrigerende feedback\|Korrigerende feedback]]

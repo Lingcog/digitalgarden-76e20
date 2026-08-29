@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kognitiv-grammatik/","created":"2023-11-04T12:35:44.132+01:00","updated":"2025-04-06T00:40:14.143+02:00"}
+{"dg-publish":true,"permalink":"/kognitiv-grammatik/","dg-note-properties":{"aliases":["kognitiv grammatik"]}}
 ---
 
 [[Kognitiv fonologi\|Kognitiv fonologi]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/korrigerende-feedback/","created":"2024-04-18T13:10:56.347+02:00","updated":"2025-04-06T14:14:15.022+02:00"}
+{"dg-publish":true,"permalink":"/korrigerende-feedback/","dg-note-properties":{"aliases":["korrigerende feedback"]}}
 ---
 
 

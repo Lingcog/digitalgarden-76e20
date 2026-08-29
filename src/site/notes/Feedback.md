@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/feedback/","created":"2025-04-06T13:41:57.000+02:00","updated":"2026-03-02T07:37:48.238+01:00"}
+{"dg-publish":true,"permalink":"/feedback/","dg-note-properties":{"aliases":["feedback"]}}
 ---
 
 **Former for feedback**

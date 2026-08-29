@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/konstruktivisme-og-kognitions-psykologi/","created":"2025-04-17T15:13:22.000+02:00","updated":"2025-04-17T15:38:14.020+02:00"}
+{"dg-publish":true,"permalink":"/konstruktivisme-og-kognitions-psykologi/","dg-note-properties":{"aliases":["Konstruktivisme og kognitions psykologi","konstruktivisme og kognitions psykologi"]}}
 ---
 
 [[Pædagogik\|Pædagogik]]

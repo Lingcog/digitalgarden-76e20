@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kissling-2018/","created":"2023-07-23T11:49:58.000+02:00","updated":"2025-04-06T16:45:55.398+02:00"}
+{"dg-publish":true,"permalink":"/kissling-2018/","dg-note-properties":{}}
 ---
 
 Elizabeth Kissling, (2018) Pronunciation Instruction Can Improve L2 Learners’ Bottom‐Up Processing for Listening. Modern Language Learner, 102(4)

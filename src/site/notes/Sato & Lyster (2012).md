@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sato-and-lyster-2012/","created":"2024-04-18T13:08:57.316+02:00","updated":"2025-04-06T14:16:54.544+02:00"}
+{"dg-publish":true,"permalink":"/sato-and-lyster-2012/","dg-note-properties":{}}
 ---
 
 [[Korrigerende feedback\|Korrigerende feedback]]

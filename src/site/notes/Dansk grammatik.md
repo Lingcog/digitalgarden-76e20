@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Dansk grammatik/","noteIcon":"","created":"2026-08-29T17:01:28.257+02:00","updated":"2026-08-29T17:10:14.240+02:00"}
+{"dg-publish":true,"permalink":"/dansk-grammatik/","dg-note-properties":{}}
 ---
 
 > [!tip] 🇩🇰 Til mine kursister (DU1)

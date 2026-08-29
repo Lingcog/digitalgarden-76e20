@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/udtaleundervisning/","created":"2025-04-06T15:43:44.593+02:00","updated":"2025-06-09T22:27:31.614+02:00"}
+{"dg-publish":true,"permalink":"/udtaleundervisning/","dg-note-properties":{"aliases":["udtaleundervisning"]}}
 ---
 
 Aktuelt:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/laering-gennem-historier/","created":"2026-05-06T09:47:04.468+02:00","updated":"2026-05-06T10:01:17.512+02:00"}
+{"dg-publish":true,"permalink":"/laering-gennem-historier/","dg-note-properties":{}}
 ---
 
 

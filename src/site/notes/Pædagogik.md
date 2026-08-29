@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/paedagogik/","created":"2022-04-22T19:43:10.000+02:00","updated":"2025-04-17T15:35:04.732+02:00"}
+{"dg-publish":true,"permalink":"/paedagogik/","dg-note-properties":{"aliases":["pædagogik"]}}
 ---
 
 [[Undervisningsmetoder - hvilke er effektive eller ineffektive?\|Undervisningsmetoder - hvilke er effektive eller ineffektive?]]
+[[Konstruktivisme og kognitions psykologi\|Konstruktivisme og kognitions psykologi]]
+
 
 **Litteratur** 
 - [[Agarwal og Bain (2019)\|Agarwal og Bain (2019)]]
@@ -11,12 +13,14 @@
 - [[Brookfield (2015)\|Brookfield (2015)]]
 - [[Ritchhart, Church & Morrison, 2011\|Ritchhart, Church & Morrison, 2011]]
 
-**Kognitiv inspireret** 
-4 hovedpunkter 
-1. Repetition
-2. [[Spacing\|Spacing]] 
-3. Interleaving
-4. metacognition
+**Undervisning af bestemte typer af kursister**
+[[DU1-kursister\|DU1-kursister]]
+DU2-kursister
+DU3-kursister
+
+
+
+
 
 [[Pædagogisk transfer\|Pædagogisk transfer]]
 

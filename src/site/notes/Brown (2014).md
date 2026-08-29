@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/brown-2014/","created":"2023-08-29T20:18:45.000+02:00","updated":"2025-04-17T14:54:08.544+02:00"}
+{"dg-publish":true,"permalink":"/brown-2014/","dg-note-properties":{}}
 ---
 
 
@@ -49,7 +49,7 @@ Blande to beslægtede emner gør tilegnelsen sværere, men indlæringen mere eff
 Læringsprocessen
 1. Encoding (konvertering af samseinput til kemiske og elektriske signaler, der danner en repræsentation af de mønstre du har set )
 2. Konsilidation, der dannes forbindelse til tidligere erfaringer, hjernen øver det. Der sker en overføring til langtidshukommelsen over tid
-3. Rekonsildation (retrieving) forbindelsen styrkes og på samme tid gøres føjelig så det passer til nylig erhvervet viden. Gennem sparring gør man det sværere at genkalde over tid og dermed bliver det lettere at huske.
+3. Rekonsildation (retrieving) forbindelsen styrkes og på samme tid gøres føjelig så det passer til nylig erhvervet viden. Gennem spacing gør man det sværere at genkalde over tid og dermed bliver det lettere at huske.
 
 **Reflektion som strategi**
 1. Retrievel 

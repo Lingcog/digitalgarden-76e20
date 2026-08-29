@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/macedonia-and-knosche-2011/","created":"2023-09-10T08:22:20.000+02:00","updated":"2025-04-06T16:46:21.611+02:00"}
+{"dg-publish":true,"permalink":"/macedonia-and-knosche-2011/","dg-note-properties":{"aliases":null}}
 ---
 
 
@@ -17,7 +17,7 @@ Undersøgelsen viste at grammatiske kategorier huskes i denne rækkefølge Navne
 
 Selv ved indlæring af adverbier med gestus kunne man måle en effekt. Altså på trods af at der er minimalt med kropslige associationer og forbindelser til sensormotoriske netværksdomæner. 
 
-Forbindelsen mellem hukommelse og konkrethed af ord kategori hviler på teorier om [[Embodied cognition hypothesis.canvas|Embodied cognition hypothesis]]. Ifølge sådanne teorier indgår kognition i et samspil mellem perception og aktion. 
+Forbindelsen mellem hukommelse og konkrethed af ord kategori hviler på teorier om [[Embodied cognition hypothesis.canvas\|Embodied cognition hypothesis]]. Ifølge sådanne teorier indgår kognition i et samspil mellem perception og aktion. 
 
 Årsagen til at ordene huskes når de kombineres med gestus, også adverbier, er ifølge forfatterne at gestus …
 1. styrker forbindelserne til embodied træk i ordene der er indeholdt i den semantiske kerne. 

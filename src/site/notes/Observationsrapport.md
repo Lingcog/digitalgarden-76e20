@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/observationsrapport/","created":"2026-02-01T20:16:27.345+01:00","updated":"2026-02-01T21:40:01.944+01:00"}
+{"dg-publish":true,"permalink":"/observationsrapport/","dg-note-properties":{"aliases":["Oberservationsrapport","observationsrapport"]}}
 ---
 
 I forbindelse med min eksamen i Andetsprogspædagogik skulle jeg aflevere en portofolio, og den anden opgave var et observationsstudie i [[Feedback\|feedback]] på et sprogkursus. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/henriksen-1995/","created":"2026-03-02T15:07:00.659+01:00","updated":"2026-03-02T15:42:47.651+01:00"}
+{"dg-publish":true,"permalink":"/henriksen-1995/","dg-note-properties":{}}
 ---
 
 Henriksen, Birgit (1995) *Hvordan husker man et ord?* i Sprogforum nr. 3

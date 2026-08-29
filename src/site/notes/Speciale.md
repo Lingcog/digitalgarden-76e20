@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/speciale/","created":"2026-02-01T21:18:28.151+01:00","updated":"2026-03-02T07:38:10.015+01:00"}
+{"dg-publish":true,"permalink":"/speciale/","dg-note-properties":{"aliases":["Speciale","speciale"]}}
 ---
 
 

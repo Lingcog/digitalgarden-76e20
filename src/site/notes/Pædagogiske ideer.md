@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paedagogiske-ideer/","created":"2022-04-03T08:49:24.000+02:00","updated":"2025-04-06T14:25:00.739+02:00"}
+{"dg-publish":true,"permalink":"/paedagogiske-ideer/","dg-note-properties":{"aliases":["pædagogiske ideer"]}}
 ---
 
 

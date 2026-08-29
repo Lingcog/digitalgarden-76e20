@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/flowcharts-i-udtaleundervisning/","created":"2025-04-13T16:33:55.948+02:00","updated":"2025-04-13T18:31:17.396+02:00"}
+{"dg-publish":true,"permalink":"/flowcharts-i-udtaleundervisning/","dg-note-properties":{"aliases":["flowcharts i udtaleundervisningen"]}}
 ---
 
 [[Udtaleundervisning\|Udtaleundervisning]]

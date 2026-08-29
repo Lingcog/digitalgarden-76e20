@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ny-dansk-grammatikapp/","created":"2026-03-01T23:23:58.000+01:00","updated":"2026-03-06T23:43:33.264+01:00"}
+{"dg-publish":true,"permalink":"/ny-dansk-grammatikapp/","dg-note-properties":{}}
 ---
 
 **Underviserguide**
@@ -69,8 +69,7 @@ Det har altså for mig været en balance mellem at få genereret øvelser af hø
 ##### **Grammatik – fra klodser til fulde tekster**
 For at gøre abstrakt dansk grammatik mere nærværende og lettere at forstå, er "Dagens Opgave" inddelt pædagogisk: _Klodserne_ (sætningsdele), _Strukturen_ (den hele sætning) og _Sammenhængen_ (flere sætninger). Kursisten starter med de basale byggeklodser – som pronominer og verber – for derefter at lære at sætte dem korrekt ind i en samlet sætning. Til sidst trænes evnen til at binde sætningerne sammen, så de danner et flydende og meningsfuldt tekstflow.
 
-![28C77938-9E3D-427B-B61B-1F07014B6F5A.png](/img/user/28C77938-9E3D-427B-B61B-1F07014B6F5A.png)
-
+![[https://imgur.com/a/ilustration-5SLOWt7\|https://imgur.com/a/ilustration-5SLOWt7]]
 **En visuel guide til sproget** Den didaktiske progression fjerner forvirringen og giver et klart visuelt landkort over sprogets natur. Kursisterne oplever ikke grammatikken som en tilfældig samling regler, men som en rejse fra det lille præcise ord til det større, sammenhængende budskab. Denne tydelige struktur gør det nemt og trygt at navigere i opgaverne, fordi man altid kan se den røde tråd og formålet med det, man træner.
   
 📈 **Integration og Udvidelse**

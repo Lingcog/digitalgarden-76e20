@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/baills-2021/","created":"2023-08-22T13:47:06.000+02:00","updated":"2025-04-06T16:45:28.929+02:00"}
+{"dg-publish":true,"permalink":"/baills-2021/","dg-note-properties":{"aliases":null}}
 ---
 
 Florence Baills, USING THE HANDS
@@ -8,7 +8,7 @@ BOOSTS PHONOLOGICAL LEARNING IN A FOREIGN LANGUAGE, TESI DOCTORAL UPF / 2021,
 
 [[Håndgestus og læring\|Håndgestus og læring]]
 
-[[Embodied cognition hypothesis.canvas|Embodied cognition hypothesis]]
+[[Embodied cognition hypothesis.canvas\|Embodied cognition hypothesis]]
 
 **Teoretisk grundlag** 
 1. Embodied Cognition Hypothesis

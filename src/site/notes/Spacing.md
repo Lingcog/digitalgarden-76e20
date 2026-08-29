@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spacing/","created":"2023-07-01T13:33:46.000+02:00","updated":"2025-04-06T13:28:45.576+02:00"}
+{"dg-publish":true,"permalink":"/spacing/","dg-note-properties":{"aliases":["spacing"]}}
 ---
 
 [[Pædagogik\|Pædagogik]]

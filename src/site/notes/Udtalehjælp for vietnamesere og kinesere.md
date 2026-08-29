@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/udtalehjaelp-for-vietnamesere-og-kinesere/","created":"2025-05-23T12:16:31.000+02:00","updated":"2025-06-09T22:30:01.268+02:00"}
+{"dg-publish":true,"permalink":"/udtalehjaelp-for-vietnamesere-og-kinesere/","dg-note-properties":{}}
 ---
 
 

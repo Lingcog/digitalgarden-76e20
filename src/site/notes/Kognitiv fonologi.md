@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kognitiv-fonologi/","created":"2023-11-04T12:46:35.466+01:00","updated":"2025-04-06T00:39:03.407+02:00"}
+{"dg-publish":true,"permalink":"/kognitiv-fonologi/","dg-note-properties":{}}
 ---
 
 

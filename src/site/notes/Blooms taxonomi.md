@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blooms-taxonomi/","created":"2022-03-18T18:54:36.000+01:00","updated":"2026-03-04T12:08:50.809+01:00"}
+{"dg-publish":true,"permalink":"/blooms-taxonomi/","dg-note-properties":{}}
 ---
 
 **Blooms taxonomi**

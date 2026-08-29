@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/undervisningsmetoder-hvilke-er-effektive-eller-ineffektive/","created":"2023-06-19T18:37:42.000+02:00","updated":"2025-04-17T15:01:38.960+02:00"}
+{"dg-publish":true,"permalink":"/undervisningsmetoder-hvilke-er-effektive-eller-ineffektive/","dg-note-properties":{}}
 ---
 
 [[Pædagogik\|Pædagogik]]

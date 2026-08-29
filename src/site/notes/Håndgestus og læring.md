@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/handgestus-og-laering/","created":"2023-09-03T07:59:26.000+02:00","updated":"2025-04-06T17:01:02.367+02:00"}
+{"dg-publish":true,"permalink":"/handgestus-og-laering/","dg-note-properties":{"aliases":["håndgestus og læring"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ritchhart-church-and-morrison-2011/","created":"2024-05-02T07:29:01.000+02:00","updated":"2026-03-04T12:05:52.946+01:00"}
+{"dg-publish":true,"permalink":"/ritchhart-church-and-morrison-2011/","dg-note-properties":{}}
 ---
 
 [[Undervisningsmetoder - hvilke er effektive eller ineffektive?\|Undervisningsmetoder - hvilke er effektive eller ineffektive?]]
