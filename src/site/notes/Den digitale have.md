@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/den-digitale-have/","tags":["gardenEntry"],"created":"2025-04-06T00:21:35.000+02:00","updated":"2026-05-06T10:52:50.448+02:00"}
+{"dg-publish":true,"permalink":"/den-digitale-have/","tags":["gardenEntry"],"created":"2025-04-06T00:21:35.000+02:00","updated":"2026-08-29T17:01:07.540+02:00"}
 ---
 
 
@@ -7,6 +7,17 @@
 ![Imgur](https://i.imgur.com/VZfRmQi.png)
 
 **Velkommen til min digitale have**
+
+
+
+> [!tip] 🇩🇰 Til mine kursister (DU1, DU2, DU3)
+> Her finder du visuel grammatik, hjælpemidler og ordforråd til vores undervisning.
+> [[Dansk grammatik\|Klik her for at åbne kursistsiden]]
+
+> [!info] 🎓 Til fagfæller
+> Dyk ned i mit speciale, kognitionspsykologi og pædagogiske observationer.
+
+
 Her kan du gå på opdagelse i mine forskellige interesseområder. Mine tanker og ideer er som frø, altså lidt ubearbejdede, men med potentiale til at udvikle sig til mere. Hist og her er der desværre også ukrudt, altså stave- og kommafejl. Som det fremgår af websidens navn lingcog.com er min store passion lingvistik og kognition. 
 
 **Feedback**
