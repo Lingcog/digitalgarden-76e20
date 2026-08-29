@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/du-1-grammatik/","created":"2026-08-29T17:10:22.231+02:00","updated":"2026-08-29T17:18:03.199+02:00"}
+{"dg-publish":true,"permalink":"/DU1-grammatik/","noteIcon":"","created":"2026-08-29T17:10:22.231+02:00","updated":"2026-08-29T17:18:03.199+02:00"}
 ---
 
 > [!tip] 🇩🇰 Mad  🍎🥩🍗🍋🥗
