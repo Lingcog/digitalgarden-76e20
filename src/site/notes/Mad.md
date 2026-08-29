@@ -26,6 +26,6 @@
 
 ![Sætningsmønster_for_mad_og_smag.png](/img/user/Untitled/Billeder/Mad%20-%20DU1/S%C3%A6tningsm%C3%B8nster_for_mad_og_smag.png)
 
-#### Hvordan snakker man om sundhed på andre sprog?
+###### Hvordan snakker man om sundhed på andre sprog?
 
 <iframe src="/img/user/Untitled/Billeder/Mad%20-%20DU1/Global_Health_Wisdom.pdf" width="100%" height="900px" title="Global_Health_Wisdom.pdf" style="border:1px solid #ccc;"></iframe>
