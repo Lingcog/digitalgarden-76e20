@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/den-digitale-have/","tags":["gardenEntry"],"created":"2025-04-06T00:21:35.000+02:00","updated":"2026-08-29T17:01:07.540+02:00"}
+{"dg-publish":true,"permalink":"/den-digitale-have/","tags":["gardenEntry"],"created":"2025-04-06T00:21:35.000+02:00","updated":"2026-08-29T20:03:18.677+02:00"}
 ---
 
 
