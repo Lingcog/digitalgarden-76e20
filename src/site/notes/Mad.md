@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Mad/","noteIcon":"","created":"2026-08-29T17:18:13.199+02:00","updated":"2026-08-29T18:53:06.478+02:00"}
+{"dg-publish":true,"permalink":"/Mad/","noteIcon":"","created":"2026-08-29T17:18:13.199+02:00","updated":"2026-08-30T00:23:48.121+02:00"}
 ---
 
 #### Alle ord har enten et eller en foran
@@ -22,6 +22,10 @@
 
 ![Lær_at_sammenligne_tillægsord.png](/img/user/Untitled/Billeder/Mad%20-%20DU1/L%C3%A6r_at_sammenligne_till%C3%A6gsord.png)
 
-#### Hvor skal adjektivet stå?
+##### Hvor skal adjektivet stå?
 
 ![Sætningsmønster_for_mad_og_smag.png](/img/user/Untitled/Billeder/Mad%20-%20DU1/S%C3%A6tningsm%C3%B8nster_for_mad_og_smag.png)
+
+#### Hvordan snakker man om sundhed på andre sprog?
+
+<iframe src="/img/user/Untitled/Billeder/Mad%20-%20DU1/Global_Health_Wisdom.pdf" width="100%" height="900px" title="Global_Health_Wisdom.pdf" style="border:1px solid #ccc;"></iframe>
